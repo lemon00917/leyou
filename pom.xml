@@ -12,6 +12,7 @@
         <module>leyou-gateway</module>
         <module>leyou-item</module>
         <module>leyou-item</module>
+        <module>leyou-common</module>
     </modules>
     <name>leyou</name>
     <description>Demo project for Spring Boot</description>
